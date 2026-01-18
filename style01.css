@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    
+}
+
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: aquamarine;
+}
+
+.nav a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    padding: 0px 20px;
+}
+
+.nav ul{
+    height: 30px;
+    text-align: center;
+}
+
+.nav li{
+    
+}
+
+.sisu{
+    margin: auto;
+    background-color: rgba(255, 132, 44, 0.805);
+    max-width: 900px;
+    height: 650px;
+    border-radius: 10px;
+    border-style: double;
+}
+
+body {
+  background-image:
+    linear-gradient(to bottom, rgba(128, 146, 144, 0.816), rgba(245, 167, 245, 0.636)),
+    url('Pildid/epstein-virgin-island-home-file-gty-jef-220323_1648064232623_hpMain_16x9_1600.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+.sisu li{
+    
+}
+
+.sisu ul{
+    list-style-type: none;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    
+}
+
+.footer{
+    margin: auto;
+    background-color: rgba(128, 255, 0, 0.914);
+    height: 650px;
+    max-width: 90%;
+    border-radius: 40px;
+    border-style: solid;
+}
+
+.footer ul{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.footer li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px
+}
+
+hr{
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+}
+
+.kriipsud2 hr{
+    border: 1px solid black;
+    width: 1000px;
+    margin: auto;
+}
+
+.lahe a{
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 3px 0px;
+    float: left;
+}
+
+.lahe ul{
+    display: block;
+    float: left;
+    padding: 20px;
+}
+
+.img{
+    display: block;
+    float: left;
+    padding: 20px;
+}
+
+.logod{
+    padding-top: 170px;
+}
